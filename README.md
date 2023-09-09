@@ -2,7 +2,7 @@ This document will provide you with all the necessary information to set up and 
 
 Description
 
-Tic Tac Toe is a simple two-player game that is played on a 3x3 grid. The goal of the game is to get three of your symbols in a row (horizontally, vertically, or diagonally) before your opponent does.
+Tic Tac Toe is a simple two-player game that is played on a 3x3 grid. The goal of the game is to get three of your symbols in a row (horizontally, vertically, or diagonally) before your opponent does. 
 
 Installation
 
